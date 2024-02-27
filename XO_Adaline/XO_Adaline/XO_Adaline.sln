@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XO_Adaline", "XO_Adaline\XO_Adaline.csproj", "{DB11877C-E97A-4525-AD8D-2EE9D7E8879B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB11877C-E97A-4525-AD8D-2EE9D7E8879B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11877C-E97A-4525-AD8D-2EE9D7E8879B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11877C-E97A-4525-AD8D-2EE9D7E8879B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11877C-E97A-4525-AD8D-2EE9D7E8879B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8DDD79-7596-4211-8CF3-2DEDEA824E1C}
+	EndGlobalSection
+EndGlobal

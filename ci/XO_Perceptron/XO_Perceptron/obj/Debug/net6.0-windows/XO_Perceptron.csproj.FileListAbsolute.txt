@@ -1,0 +1,34 @@
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.exe
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.deps.json
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.runtimeconfig.json
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.dll
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.pdb
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.AssemblyInfo.cs
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.dll
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\refint\XO_Perceptron.dll
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.pdb
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.genruntimeconfig.cache
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\ref\XO_Perceptron.dll
+C:\Users\Ali\Desktop\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.Form1.resources
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.exe
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.deps.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.runtimeconfig.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\bin\Debug\net6.0-windows\XO_Perceptron.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.AssemblyReference.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.Form1.resources
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.GenerateResource.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.AssemblyInfoInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.AssemblyInfo.cs
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\refint\XO_Perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\XO_Perceptron.genruntimeconfig.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\ci\XO_Perceptron\XO_Perceptron\obj\Debug\net6.0-windows\ref\XO_Perceptron.dll

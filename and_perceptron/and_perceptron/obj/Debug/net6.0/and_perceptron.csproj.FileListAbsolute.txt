@@ -1,0 +1,30 @@
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.csproj.AssemblyReference.cache
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.GeneratedMSBuildEditorConfig.editorconfig
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.AssemblyInfoInputs.cache
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.AssemblyInfo.cs
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.csproj.CoreCompileInputs.cache
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.exe
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.deps.json
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.runtimeconfig.json
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.dll
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.pdb
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.dll
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\refint\and_perceptron.dll
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.pdb
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.genruntimeconfig.cache
+Z:\UN\Computational Intelligence\TSP\and_perceptron\and_perceptron\obj\Debug\net6.0\ref\and_perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.exe
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.deps.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.runtimeconfig.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\bin\Debug\net6.0\and_perceptron.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.csproj.AssemblyReference.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.AssemblyInfoInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.AssemblyInfo.cs
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.csproj.CoreCompileInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\refint\and_perceptron.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\and_perceptron.genruntimeconfig.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\and_perceptron\and_perceptron\obj\Debug\net6.0\ref\and_perceptron.dll

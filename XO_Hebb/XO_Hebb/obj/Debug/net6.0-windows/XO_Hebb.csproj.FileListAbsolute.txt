@@ -1,0 +1,34 @@
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.exe
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.deps.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.runtimeconfig.json
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.AssemblyReference.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.Form1.resources
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.GenerateResource.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.AssemblyInfoInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.AssemblyInfo.cs
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.CoreCompileInputs.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\refint\XO_Hebb.dll
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.pdb
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.genruntimeconfig.cache
+C:\Users\IP GAMING 3-15IAH7\Desktop\Computational Intelligence\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\ref\XO_Hebb.dll
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.exe
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.deps.json
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.runtimeconfig.json
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.dll
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\bin\Debug\net6.0-windows\XO_Hebb.pdb
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.Form1.resources
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.AssemblyInfo.cs
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.dll
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\refint\XO_Hebb.dll
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.pdb
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\XO_Hebb.genruntimeconfig.cache
+C:\Users\Ali\Desktop\ci\XO_Hebb\XO_Hebb\obj\Debug\net6.0-windows\ref\XO_Hebb.dll
